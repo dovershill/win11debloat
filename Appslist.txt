@@ -112,11 +112,11 @@ XING
 #Microsoft.WindowsNotepad
 #Microsoft.WindowsStore                 # Microsoft Store, WARNING: This app cannot be reinstalled!
 #Microsoft.WindowsTerminal              # New default terminal app in windows 11
-#Microsoft.Xbox.TCUI                    # UI framework, seems to be required for MS store, photos and certain games
-#Microsoft.XboxIdentityProvider         # Xbox sign-in framework, required for some games
-#Microsoft.XboxSpeechToTextOverlay      # Might be required for some games, WARNING: This app cannot be reinstalled!
-#Microsoft.YourPhone                    # Phone link
-#Microsoft.ZuneMusic                    # Modern Media Player
+Microsoft.Xbox.TCUI                    # UI framework, seems to be required for MS store, photos and certain games
+Microsoft.XboxIdentityProvider         # Xbox sign-in framework, required for some games
+Microsoft.XboxSpeechToTextOverlay      # Might be required for some games, WARNING: This app cannot be reinstalled!
+Microsoft.YourPhone                    # Phone link
+Microsoft.ZuneMusic                    # Modern Media Player
 #MicrosoftWindows.CrossDevice           # Phone integration within File Explorer, Camera and more
 
 
@@ -127,12 +127,12 @@ XING
 #   or when launching the script with the specific parameters found in the README.md. Remove the # character in   #
 #   front of any app you want to UNINSTALL by default.                                                            #
 # --------------------------------------------------------------------------------------------------------------- #
-#Microsoft.GamingApp                    # Modern Xbox Gaming App, required for installing some PC games
+Microsoft.GamingApp                    # Modern Xbox Gaming App, required for installing some PC games
 #Microsoft.OutlookForWindows            # New mail app: Outlook for Windows
 #Microsoft.People                       # Required for & included with Mail & Calendar
 #Microsoft.PowerAutomateDesktop
 #Microsoft.RemoteDesktop
 #Microsoft.Windows.DevHome
 #Microsoft.windowscommunicationsapps    # Mail & Calendar
-#Microsoft.XboxGameOverlay              # Game overlay, required/useful for some games
-#Microsoft.XboxGamingOverlay            # Game overlay, required/useful for some games
+Microsoft.XboxGameOverlay              # Game overlay, required/useful for some games
+Microsoft.XboxGamingOverlay            # Game overlay, required/useful for some games
